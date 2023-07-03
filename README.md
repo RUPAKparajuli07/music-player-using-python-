@@ -33,7 +33,9 @@
     <li>Clone the repository or download the source code files.</li>
     <pre><code>git clone https://github.com/RUPAKparajuli07/music-player-using-python-</code></pre>
     <li>Make sure you have the required libraries installed.</li>
-    <pre><code>pip install tkinter pygame mutagen</code></pre>
+    <pre><code>pip install pygame </code></pre>
+    <pre><code>pip install mutagen</code></pre>
+    <pre><code>pip install tkinter </code></pre>
   </ol>
 
   <h2>Usage</h2>
