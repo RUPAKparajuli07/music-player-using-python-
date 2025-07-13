@@ -1,4 +1,11 @@
+import tkinter as tk
+import pygame
+import os
+from tkinter import filedialog
+from mutagen.mp3 import MP3
+import time
 
+class MusicPlayer:
     def __init__(self, root):
         self.root = root
         self.root.title("Music Player")
